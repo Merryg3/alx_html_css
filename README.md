@@ -1,2 +1,1 @@
-This is my first commit
-adding new commit
+This is my html project
